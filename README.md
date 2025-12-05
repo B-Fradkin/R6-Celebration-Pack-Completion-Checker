@@ -97,7 +97,9 @@ Run the script:
 
 ```bash
 python script_api.py
+```
 or
+```bash
 py script_api.py
 ```
 
