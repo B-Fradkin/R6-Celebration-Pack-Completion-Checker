@@ -97,6 +97,8 @@ Run the script:
 
 ```bash
 python script_api.py
+or
+py script_api.py
 ```
 
 The script will:
