@@ -7,10 +7,7 @@ A Python script that scrapes celebration pack items from r6.skin and compares th
 - Scrapes all celebration pack items from r6.skin
 - Automatically authenticates with Ubisoft services via GraphQL API
 - Checks ownership status for each item
-- Handles special characters in item names (S.I., R&D, etc.)
-- Groups item variants with the same base name
-- Generates a detailed report of missing items
-- Exports results to JSON format
+- Generates a list of missing items
 
 ## Requirements
 
